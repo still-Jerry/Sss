@@ -1,0 +1,30 @@
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\“Леарн”.exe.config
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\_Леарн_.Properties.Resources.resources
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\“Леарн”.csproj.GenerateResource.Cache
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\_Леарн_.Forms.ServiceForm.resources
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\“Леарн”.exe
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\“Леарн”.pdb
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\_Леарн_.Forms.EditServiceForm.resources
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\_Леарн_.Forms.OrderForm.resources
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\“Леарн”.exe
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\“Леарн”.pdb
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\_Леарн_.Forms.AutorizationForm.resources
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\for company.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\online lessons.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\school_logo.png
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Английский язык.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Испанский язык.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Итальянский язык.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\киноклуб.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Китайский язык.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Немецкий язык.png
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Подготовка к экзамену ACT.png
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Подготовка к экзамену GMAT.png
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Подготовка к экзамену GRE.jpeg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Подготовка к экзамену IELTS.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Подготовка к экзамену SAT.png
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Подготовка к экзамену TOEFL.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Португальский язык.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Французский язык.jpg
+C:\Users\Командор\Desktop\“Леарн”\bin\Debug\Resurse\Услуги школы\Японский язык.jpg
+C:\Users\Командор\Desktop\“Леарн”\obj\Debug\_Леарн_.Forms.AddServiceForm.resources
